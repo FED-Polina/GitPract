@@ -9,3 +9,14 @@ C:\Users\FEDPo\Documents\Csharp\PractGit\PractGit\obj\Debug\PractGit.csproj.Gene
 C:\Users\FEDPo\Documents\Csharp\PractGit\PractGit\obj\Debug\PractGit.csproj.CoreCompileInputs.cache
 C:\Users\FEDPo\Documents\Csharp\PractGit\PractGit\obj\Debug\PractGit.exe
 C:\Users\FEDPo\Documents\Csharp\PractGit\PractGit\obj\Debug\PractGit.pdb
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\bin\Debug\PractGit.exe.config
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\bin\Debug\PractGit.exe
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\bin\Debug\PractGit.pdb
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.csproj.AssemblyReference.cache
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.Form1.resources
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.Properties.Resources.resources
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.csproj.GenerateResource.cache
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.csproj.CoreCompileInputs.cache
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.exe
+C:\Users\FEDPo\Documents\Csharp\GitClonePract\GitPract\PractGit\obj\Debug\PractGit.pdb

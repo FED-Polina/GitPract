@@ -21,10 +21,10 @@ namespace PractGit
         private void button1_Click(object sender, EventArgs e)
         {
 
-            textBox_add.Text = (int.Parse(textBox1.Text) + int.Parse(textBox2.Text)).ToString();
-            textBox_sub.Text = (int.Parse(textBox1.Text) - int.Parse(textBox2.Text)).ToString();
-            textBox_mult.Text = (int.Parse(textBox1.Text) * int.Parse(textBox2.Text)).ToString();
-            textBox_dev.Text = (int.Parse(textBox1.Text) / int.Parse(textBox2.Text)).ToString();
+            textBox_add.Text = (double.Parse(textBox1.Text) + double.Parse(textBox2.Text)).ToString();
+            textBox_sub.Text = (double.Parse(textBox1.Text) - double.Parse(textBox2.Text)).ToString();
+            textBox_mult.Text = (double.Parse(textBox1.Text) * double.Parse(textBox2.Text)).ToString();
+            textBox_dev.Text = (double.Parse(textBox1.Text) / double.Parse(textBox2.Text)).ToString();
         }
     }
 }
