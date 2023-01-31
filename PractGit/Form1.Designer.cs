@@ -35,13 +35,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox_sub = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-<<<<<<< HEAD
             this.textBox_mult = new System.Windows.Forms.TextBox();
             this.label_mul = new System.Windows.Forms.Label();
-=======
             this.textBox_dev = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
->>>>>>> session1
             this.SuspendLayout();
             // 
             // textBox1
@@ -100,7 +97,6 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "-";
             // 
-<<<<<<< HEAD
             // textBox_mult
             // 
             this.textBox_mult.Location = new System.Drawing.Point(226, 105);
@@ -116,7 +112,6 @@
             this.label_mul.Size = new System.Drawing.Size(11, 13);
             this.label_mul.TabIndex = 8;
             this.label_mul.Text = "*";
-=======
             // textBox_dev
             // 
             this.textBox_dev.Location = new System.Drawing.Point(51, 170);
@@ -132,20 +127,16 @@
             this.label3.Size = new System.Drawing.Size(12, 13);
             this.label3.TabIndex = 8;
             this.label3.Text = "/";
->>>>>>> session1
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(501, 267);
-<<<<<<< HEAD
             this.Controls.Add(this.label_mul);
             this.Controls.Add(this.textBox_mult);
-=======
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox_dev);
->>>>>>> session1
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox_sub);
             this.Controls.Add(this.label1);
@@ -169,13 +160,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox_sub;
         private System.Windows.Forms.Label label2;
-<<<<<<< HEAD
         private System.Windows.Forms.TextBox textBox_mult;
         private System.Windows.Forms.Label label_mul;
-=======
         private System.Windows.Forms.TextBox textBox_dev;
         private System.Windows.Forms.Label label3;
->>>>>>> session1
     }
 }
 

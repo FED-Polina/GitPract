@@ -23,12 +23,8 @@ namespace PractGit
 
             textBox_add.Text = (int.Parse(textBox1.Text) + int.Parse(textBox2.Text)).ToString();
             textBox_sub.Text = (int.Parse(textBox1.Text) - int.Parse(textBox2.Text)).ToString();
-<<<<<<< HEAD
             textBox_mult.Text = (int.Parse(textBox1.Text) * int.Parse(textBox2.Text)).ToString();
-
-=======
             textBox_dev.Text = (int.Parse(textBox1.Text) / int.Parse(textBox2.Text)).ToString();
->>>>>>> session1
         }
     }
 }
