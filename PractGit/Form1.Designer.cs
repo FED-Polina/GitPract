@@ -35,6 +35,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.textBox_sub = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.textBox_mult = new System.Windows.Forms.TextBox();
+            this.label_mul = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -93,11 +95,29 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "-";
             // 
+            // textBox_mult
+            // 
+            this.textBox_mult.Location = new System.Drawing.Point(226, 105);
+            this.textBox_mult.Name = "textBox_mult";
+            this.textBox_mult.Size = new System.Drawing.Size(75, 20);
+            this.textBox_mult.TabIndex = 7;
+            // 
+            // label_mul
+            // 
+            this.label_mul.AutoSize = true;
+            this.label_mul.Location = new System.Drawing.Point(223, 86);
+            this.label_mul.Name = "label_mul";
+            this.label_mul.Size = new System.Drawing.Size(11, 13);
+            this.label_mul.TabIndex = 8;
+            this.label_mul.Text = "*";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(501, 267);
+            this.Controls.Add(this.label_mul);
+            this.Controls.Add(this.textBox_mult);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox_sub);
             this.Controls.Add(this.label1);
@@ -121,6 +141,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox_sub;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBox_mult;
+        private System.Windows.Forms.Label label_mul;
     }
 }
 
